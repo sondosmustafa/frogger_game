@@ -1,0 +1,22 @@
+body {
+    font-family: 'Open Sans', Arial, sans-serif;
+    text-align: center;
+    color: #f0ecfe;
+    background: #55577C;
+}
+
+.game-instruction {
+    width: 100%;
+    max-width: 480px;
+    margin: 0 auto;
+}
+h1{
+    font-weight: bold;
+    letter-spacing: 0.1em;
+    font-size: 1.4em;
+}
+p {
+    font-size: 1em;
+    line-height: 1.3em;
+    text-align: left;
+}
